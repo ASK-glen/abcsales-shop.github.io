@@ -69,10 +69,9 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-semibold mb-3">Contact Us</h4>
             <address className="not-italic text-white/80">
-              <p>123 Electronics Street</p>
-              <p>Seoul, South Korea</p>
-              <p className="mt-2">Email: info@abcsaleskorea.com</p>
-              <p>Phone: +82-2-123-4567</p>
+              <p>1123, 253 Samsung-ro, Yeongtong-gu, Suwon-si </p>
+              <p>Gyeonggi-do, Korea, 16521</p>
+              <p className="mt-2">Email: glen@abcsales.co.kr</p>
             </address>
           </div>
         </div>
