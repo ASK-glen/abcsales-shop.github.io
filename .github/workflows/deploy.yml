@@ -47,10 +47,6 @@ jobs:
         with:
           path: ./dist
 
-      - name: Set CNAME
-        run: echo 'www.abcsales.co.kr' > ./dist/CNAME
-        # CNAME 설정 추가
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4 
